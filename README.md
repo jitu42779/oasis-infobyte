@@ -18,7 +18,7 @@ Demo video Link:
 
 Task-2    Tribute Page
 
-This page tributes to the IPS Officer Chadalavada Umesh Chandra
+This page tributes to DR APJ ABDUL KALAM 
 
 ![Tribute Image](![Screenshot (19)](https://user-images.githubusercontent.com/111781494/204144787-731f693a-0c2e-49a4-b55b-43e751dc9429.png)
 )
